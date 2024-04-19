@@ -6,8 +6,7 @@
 <br><br>
 
 
-
-<p>  This repository contains various web scraping techniques using Python. **It covers different methods and libraries to extract data from websites, including BeautifulSoup, Scrapy, and Selenium.** You will learn how to navigate HTML documents, handle dynamic web pages, and bypass anti-scraping measures.</p>
+<p> This repository contains various web scraping techniques using Python.It covers different methods and libraries to extract data from websites, including BeautifulSoup, Scrapy, and Selenium.You will learn how to navigate HTML documents, handle dynamic web pages, and bypass anti-scraping measures. </p>
 
 
 **Feel free to contribute ;)**
